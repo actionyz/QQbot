@@ -3,7 +3,6 @@ from qqbot import QQBotSlot as qqbotslot, RunBot
 from qqbot import QQBotSched as qqbotsched, RunBot
 from requests import *
 import json
-import test1
 
 select_group = ['hahaha','红吉劲谭']
 
